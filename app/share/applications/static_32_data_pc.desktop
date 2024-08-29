@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Amazing Qt App
+Comment=The best Qt Application Ever
+Exec=static_32_data_pc
+Icon=static_32_data_pc
+Categories=Office;
+X-appImage-Version=
